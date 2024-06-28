@@ -113,7 +113,8 @@
       <th>Thur 6/27 </th> <!-- Date -->
       <td>Lec 7. Nested lists + Number Representation<br/>
        (Recording)<br/>
-       <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a>
+       <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a><br/>
+       <a href="https://www.gradescope.com/courses/782967/assignments/4614885">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit?usp=sharing">Lab 7. Boards</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
@@ -228,7 +229,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Midterm (1 to 4PM)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
     <tr>
@@ -298,7 +299,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Midterm Retake (1 to 4PM)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
@@ -446,14 +447,14 @@
     </tr>
     <tr>
       <th>Thur 8/8</th> <!-- Date -->
-      <td>Final Review</td> <!-- Lecture -->
-      <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td>Disc 15: Review</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td>FINAL (1 to 7PM)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/9</th> <!-- Date -->
-      <td>Final Retake</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
