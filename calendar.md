@@ -457,7 +457,9 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>FINAL Retake<br/>
+      SATURDAY 8/10<br/>
+      (1 to 7PM)</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>

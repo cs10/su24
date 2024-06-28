@@ -121,10 +121,10 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 ### Exam Schedule
 
-| Midterm                                       | 7/12, 1-4 PM    |
-| Midterm Retake                                | 7/19, 1-4 PM    |
-| Final                                         | 8/8, 1-7 PM     |
-| Final Retake                                  | TBD (6 hours)   |
+| Midterm                                       | FRI 7/12, 1-4 PM    |
+| Midterm Retake                                | FRI 7/19, 1-4 PM    |
+| Final                                         | FRI 8/8, 1-7 PM     |
+| Final Retake                                  | SAT 8/10, 1-7 PM    |
 
 
 ### Exam Clobber Policy
