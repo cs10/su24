@@ -173,8 +173,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>Midterm Exam 5pm-8pm <br />
-      Pimentel 1
+      <td><br />
       </td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
@@ -187,11 +186,7 @@
       </td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
       <td rowspan="2">Disc 6: Recursion</td> <!-- Discussion -->
-      <td>In-Lab Midterm Exam<br/>
-      9-11am PST<br/>
-      11am-1pm PST<br/>
-      3-5pm PST<br/>
-      SDH 200
+      <td>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -416,10 +411,7 @@
       </td> <!-- Lecture -->
       <td>Lab 20</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>In-Lab Final Exam<br/>
-      11am-1pm PST<br/>
-      3-5pm PST<br/>
-      SDH 200
+      <td>
       </td> <!-- Assignment -->
     </tr>
     <tr>
