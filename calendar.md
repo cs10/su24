@@ -125,7 +125,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 2 Party!</td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
