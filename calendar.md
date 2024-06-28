@@ -432,15 +432,15 @@
     </tr>
     <tr>
       <th>Tue 8/06</th> <!-- Date -->
-      <td>Lec 28. Final Review + Farewell</td> <!-- Lecture -->
+      <td>Lec 28. Final Review</td> <!-- Lecture -->
       <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td>Disc 15: Review</td> <!-- Discussion -->
+      <td>Disc 15: Final Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/7</th> <!-- Date -->
-      <td>No lec</td> <!-- Lecture -->
-      <td>Final</td> <!-- Lab -->
+      <td>Final Review + Farwell</td> <!-- Lecture -->
+      <td>Final Review</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>

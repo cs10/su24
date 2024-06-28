@@ -123,7 +123,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 | Midterm                                       | 7/12, 1-4 PM    |
 | Midterm Retake                                | 7/19, 1-4 PM    |
-| Final                                         | TBD (6 hours)   |
+| Final                                         | 8/8, 1-7 PM     |
 | Final Retake                                  | TBD (6 hours)   |
 
 
