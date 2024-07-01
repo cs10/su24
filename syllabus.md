@@ -123,7 +123,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 | Midterm                                       | FRI 7/12, 1-4 PM    |
 | Midterm Retake                                | FRI 7/19, 1-4 PM    |
-| Final                                         | FRI 8/8, 1-7 PM     |
+| Final                                         | THU 8/8, 1-7 PM     |
 | Final Retake                                  | SAT 8/10, 1-7 PM    |
 
 
