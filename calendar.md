@@ -124,7 +124,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 2 Party!</td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
@@ -173,8 +173,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>Midterm Exam 5pm-8pm <br />
-      Pimentel 1
+      <td><br />
       </td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
@@ -187,11 +186,7 @@
       </td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
       <td rowspan="2">Disc 6: Recursion</td> <!-- Discussion -->
-      <td>In-Lab Midterm Exam<br/>
-      9-11am PST<br/>
-      11am-1pm PST<br/>
-      3-5pm PST<br/>
-      SDH 200
+      <td>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -233,7 +228,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Midterm (1 to 4PM)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
     <tr>
@@ -303,7 +298,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Midterm Retake (1 to 4PM)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
@@ -416,10 +411,7 @@
       </td> <!-- Lecture -->
       <td>Lab 20</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>In-Lab Final Exam<br/>
-      11am-1pm PST<br/>
-      3-5pm PST<br/>
-      SDH 200
+      <td>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -440,31 +432,33 @@
     </tr>
     <tr>
       <th>Tue 8/06</th> <!-- Date -->
-      <td>Lec 28. Final Review + Farewell</td> <!-- Lecture -->
+      <td>Lec 28. Final Review</td> <!-- Lecture -->
       <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td>Disc 15: Review</td> <!-- Discussion -->
+      <td>Disc 15: Final Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/7</th> <!-- Date -->
-      <td>No lec</td> <!-- Lecture -->
-      <td>Final</td> <!-- Lab -->
+      <td>Final Review + Farwell</td> <!-- Lecture -->
+      <td>Final Review</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/8</th> <!-- Date -->
-      <td>Final Review</td> <!-- Lecture -->
-      <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td>Disc 15: Review</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td>FINAL (1 to 7PM)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/9</th> <!-- Date -->
-      <td>Final Retake</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>FINAL Retake<br/>
+      SATURDAY 8/10<br/>
+      (1 to 7PM)</td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
