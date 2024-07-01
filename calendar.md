@@ -131,11 +131,11 @@
     <tr>
       <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
-      <td>Lec 8. Algorithms + Algorithmic Complexity <br/>
+      <td>Lec 8. Linear Recursion <br/>
       (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td><a href=“https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit?usp%3Dsharing”>Lab 8. Recursive Reporters</a>
+      <td>Lab 8. Recursive Reporters
       </td> <!-- Lab -->
       <td rowspan="2">Disc 5: Algorithmic Complexity</td> <!-- Discussion -->
       <td>
@@ -143,18 +143,18 @@
     </tr>
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
-      <td>Lec 9. Linear Recursion</td> <!-- Lecture -->
-      <td>Lab 9. recursive reporters</td> <!-- Lab -->
+      <td>Lec 9. Trees + Fractals</td> <!-- Lecture -->
+      <td>Lab 9. Fractals</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 3: 2048 Released and <b>Due (07/10)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
-      <td>Lec 10. Fractal Recursion <br/>
+      <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
       (Recording)<br/> 
       (Slides)
        </td> <!-- Lecture -->
-      <td>Lab 10. Fractals</td> <!-- Lab -->
+      <td>Lab 10. Algorithms (Binary Search)</td> <!-- Lab -->
       <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
