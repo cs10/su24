@@ -115,7 +115,7 @@
        <a href="https://drive.google.com/file/d/1daoeRF8Y7EiV4mVR84zDCEp8-OcKXtmz/view?usp=drive_link">(Recording)</a><br/>
        <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a><br/>
        <a href="https://www.gradescope.com/courses/782967/assignments/4614885">(Lecture Quiz)</a></td>
-      </td> <!-- Lecture -->
+      <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit?usp=drive_link">Lab 7. Boards</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
