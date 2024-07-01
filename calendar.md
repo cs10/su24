@@ -97,7 +97,7 @@
     <tr>
       <th>Wed 6/26 </th> <!-- Date -->
       <td>Lec 6. Functions as Data + Lambdas <br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/10PCiyI_RbTzLRMumsTRwpksPJOWaG5ql/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1wTHm5WBqCWBxHGikdMoJSyKlrNljobwYmaKyfahzbFI/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
@@ -112,7 +112,7 @@
     <tr>  
       <th>Thur 6/27 </th> <!-- Date -->
       <td>Lec 7. Nested lists + Number Representation<br/>
-       (Recording)<br/>
+       <a href="https://drive.google.com/file/d/1daoeRF8Y7EiV4mVR84zDCEp8-OcKXtmz/view?usp=drive_link">(Recording)</a><br/>
        <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1kjg8lereiUnvM6XltHGN-XlrzOqgPEjwCGroBEt78eY/edit?usp=sharing">Lab 7. Boards</a></td> <!-- Lab -->
