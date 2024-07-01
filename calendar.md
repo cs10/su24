@@ -135,7 +135,7 @@
       (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>Lab 8. Algorithms (binary search)
+      <td><a href=“https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4”>Lab 9. Recursive Reporters</a>
       </td> <!-- Lab -->
       <td rowspan="2">Disc 5: Algorithmic Complexity</td> <!-- Discussion -->
       <td>
