@@ -132,8 +132,9 @@
       <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
       <td>Lec 8. Linear Recursion <br/>
-      <a href="https://drive.google.com/file/d/1lPJKnS9opI8RIRzJGg5a4EQt4fy00XUX/view?usp=drive_link">(Recording)</a><br/>
-      <a href="https://docs.google.com/presentation/d/1GG22dJyh85zENV-YJirBn8U7moXVKhzXjrT5PcfrfOk/edit?usp=sharing">(slides)</a>
+      <a href="https://drive.google.com/file/d/1lPJKnS9opI8RIRzJGg5a4EQt4fy00XUX/view?usp=drive_link">(recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/1GG22dJyh85zENV-YJirBn8U7moXVKhzXjrT5PcfrfOk/edit?usp=sharing">(slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4618361">(lecture quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
       </td> <!-- Lab -->
@@ -143,7 +144,9 @@
     </tr>
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
-      <td>Lec 9. Trees + Fractals</td> <!-- Lecture -->
+      <td>Lec 9. Trees + Fractals<br/>
+      <a href="https://docs.google.com/presentation/d/1gDeVXZAcqTkdfSAU3V9NiSntSMXbf-Xs1FPQCDtaCeo/edit?usp=sharing">(slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(lecture quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 3: 2048 Released and <b>Due (07/10)</b></td> <!-- Assignment -->
