@@ -132,7 +132,7 @@
       <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
       <td>Lec 8. Linear Recursion <br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1lPJKnS9opI8RIRzJGg5a4EQt4fy00XUX/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1GG22dJyh85zENV-YJirBn8U7moXVKhzXjrT5PcfrfOk/edit?usp=sharing">(slides)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
