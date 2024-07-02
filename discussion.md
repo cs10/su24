@@ -62,7 +62,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 5</td>
       <td>Algorithmic Complexity</td>
-      <td>Worksheet</td>
+      <td><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true"> Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>

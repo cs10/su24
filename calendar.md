@@ -102,7 +102,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
-      <td rowspan="2">Disc 4: HOFs & Quest-Review<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=drive_link">Disc 4: HOFs & Quest-Review</a><br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -137,7 +137,7 @@
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
       </td> <!-- Lab -->
-      <td rowspan="2">Disc 5: Algorithmic Complexity</td> <!-- Discussion -->
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Disc 5: Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>
        </td> <!-- Assignment -->
     </tr>
