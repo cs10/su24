@@ -144,7 +144,7 @@
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
       <td>Lec 9. Trees + Fractals</td> <!-- Lecture -->
-      <td>Lab 9. Fractals</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 3: 2048 Released and <b>Due (07/10)</b></td> <!-- Assignment -->
     </tr>
