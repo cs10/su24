@@ -155,8 +155,9 @@
       <th>Wed 7/3 </th> <!-- Date -->
       <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
       (Recording)<br/> 
-      <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a>
-       </td> <!-- Lecture -->
+      <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
+        <!-- Lecture -->
       <td>Lab 10. Algorithms (Binary Search)</td> <!-- Lab -->
       <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
