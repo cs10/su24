@@ -158,7 +158,7 @@
       <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
         <!-- Lecture -->
-      <td>Lab 10. Algorithms (Binary Search)</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit#heading=h.opqtlp9ffvz4">Lab 10. Algorithms (Binary Search)</a></td> <!-- Lab -->
       <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
