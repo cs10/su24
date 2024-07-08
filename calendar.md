@@ -102,7 +102,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
-      <td rowspan="2"><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=drive_link">Disc 4: HOFs & Quest-Review</a><br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=drive_link">Disc 4: Scoping, Lists, HOFs, & Number Representations</a><br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -138,13 +138,14 @@
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
       </td> <!-- Lab -->
-      <td rowspan="2"><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Disc 5: Algorithmic Complexity</a></td> <!-- Discussion -->
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Disc 5: Recursion</a></td> <!-- Discussion -->
       <td>
        </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
       <td>Lec 9. Trees + Fractals<br/>
+    <a href="https://drive.google.com/file/d/197_Gad7Yz2CWrp_eggGWzd0epfoBb8KY/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1gDeVXZAcqTkdfSAU3V9NiSntSMXbf-Xs1FPQCDtaCeo/edit?usp=sharing">(slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(lecture quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
@@ -154,10 +155,18 @@
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
       <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
+<<<<<<< HEAD
       (Recording)<br/> 
       <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=sharing">(Slides)</a>
        </td> <!-- Lecture -->
       <td>Lab 10. Algorithms (Binary Search)</td> <!-- Lab -->
+=======
+      <a href="https://drive.google.com/file/d/11LOoyS53w8Qyye5h5W5SV7ef75fr4I9l/view?usp=drive_link">(Recording)</a><br/> 
+      <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
+        <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit#heading=h.opqtlp9ffvz4">Lab 10. Algorithms (Binary Search)</a></td> <!-- Lab -->
+>>>>>>> 39bca16189e53776f72851fb057265dc87ab7969
       <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -189,7 +198,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
-      <td rowspan="2">Disc 6: Recursion</td> <!-- Discussion -->
+      <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
       <td>
       </td> <!-- Assignment -->
     </tr>
@@ -212,7 +221,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
-      <td rowspan="2">Disc 7:<br/>
+      <td rowspan="2">Disc 7: Midterm Review 2<br/>
       </td> <!-- Discussion -->
       <td>Project 3: 2048 Due</td> <!-- Assignment -->
     </tr>
