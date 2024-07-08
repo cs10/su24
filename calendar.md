@@ -155,18 +155,11 @@
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
       <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
-<<<<<<< HEAD
-      (Recording)<br/> 
-      <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=sharing">(Slides)</a>
-       </td> <!-- Lecture -->
-      <td>Lab 10. Algorithms (Binary Search)</td> <!-- Lab -->
-=======
       <a href="https://drive.google.com/file/d/11LOoyS53w8Qyye5h5W5SV7ef75fr4I9l/view?usp=drive_link">(Recording)</a><br/> 
       <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
         <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit#heading=h.opqtlp9ffvz4">Lab 10. Algorithms (Binary Search)</a></td> <!-- Lab -->
->>>>>>> 39bca16189e53776f72851fb057265dc87ab7969
       <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -197,7 +190,11 @@
       (Recording) <br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>Lab 11. Data Science</td> <!-- Lab -->
+      <td>Lab 11. Data Science <br\>
+      <a href="">(Recording)</a><br\>
+      <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br\>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4631329/submissions">(Lecture Quiz)</a><br\>
+      </td> <!-- Lab -->
       <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
       <td>
       </td> <!-- Assignment -->
