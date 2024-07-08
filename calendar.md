@@ -145,6 +145,7 @@
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
       <td>Lec 9. Trees + Fractals<br/>
+    <a href="https://drive.google.com/file/d/197_Gad7Yz2CWrp_eggGWzd0epfoBb8KY/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1gDeVXZAcqTkdfSAU3V9NiSntSMXbf-Xs1FPQCDtaCeo/edit?usp=sharing">(slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(lecture quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
@@ -154,7 +155,7 @@
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
       <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
-      (Recording)<br/> 
+      <a href="https://drive.google.com/file/d/11LOoyS53w8Qyye5h5W5SV7ef75fr4I9l/view?usp=drive_link">(Recording)</a><br/> 
       <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
         <!-- Lecture -->
