@@ -190,7 +190,7 @@
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4631329/submissions">(Lecture Quiz)</a></td> <!-- Lecture -->
-      <td>Lab 11. Data Science</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1QhLHezPlu05QK11soQBtWhGZKl6_hIyKLlC4VBiiSlc/edit">Lab 11: Data Science</a></td> <!-- Lab -->
       <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
       <td>
       </td> <!-- Assignment -->
