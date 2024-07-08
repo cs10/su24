@@ -186,9 +186,9 @@
     <tr>
       <td rowspan=5>Week 4</td>
       <th>Mon 7/8</th> <!-- Date -->
-      <td>Lec 11. Data Science <br\>
-      <a href="">(Recording)</a><br\>
-      <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br\>
+      <td>Lec 11. Data Science <br/>
+      (Recording)<br/>
+      <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4631329/submissions">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
       <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
