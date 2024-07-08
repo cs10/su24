@@ -191,7 +191,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
-      <td rowspan="2">Disc 6: Recursion</td> <!-- Discussion -->
+      <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
       <td>
       </td> <!-- Assignment -->
     </tr>
@@ -214,7 +214,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
-      <td rowspan="2">Disc 7:<br/>
+      <td rowspan="2">Disc 7: Midterm Review 2<br/>
       </td> <!-- Discussion -->
       <td>Project 3: 2048 Due</td> <!-- Assignment -->
     </tr>
