@@ -227,7 +227,7 @@
       </td> <!-- Lecture -->
       <td>Practice Midterm</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>Final Project Released</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/12</th> <!-- Date -->
@@ -304,7 +304,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>Midterm Retake (1 to 4PM)</td> <!-- Assignment -->
+      <td>Midterm Retake (1 to 4PM) & Final Project Released</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
