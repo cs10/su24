@@ -199,8 +199,9 @@
       <th>Tue 7/9</th> <!-- Date -->
       <td>Lec 12. AI + ML + LLM <br/>
       (Recording) <br/> 
-      (Slides)
+      <a href="https://docs.google.com/presentation/d/1y3DdH1fWbIWndGozIKQuxMuSWmRB86FlRu4piiHGOIU/edit?usp=drive_link">(Slides)</a> <br/>
       <!-- (recording) -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4634319">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>Lab 12.</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
