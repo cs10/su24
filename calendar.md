@@ -202,7 +202,7 @@
       (Slides)
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>Lab 12.</td> <!-- Lab -->
+      <td>Lab 12. Generative AI (optional) </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
