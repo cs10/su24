@@ -140,8 +140,7 @@
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
       </td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1_rWPr5R6fSsXPs0HOwpXQ9B8mBjq6cu3/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Disc 5: Recursion</a></td> <!-- Discussion -->
-      <td>
-       </td> <!-- Assignment -->
+      <td>Project 2: Spelling Bee Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
