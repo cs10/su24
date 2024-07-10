@@ -150,7 +150,9 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(lecture quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td>Project 3: 2048 Released and <b>Due (07/10)</b></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/1dU_ybYfxN2_XVDTyHpsHV55wAX6wIoeJO4Kxo-rHg_Q/edit"> Project 3: 2048 </a> 
+      Released<br/>
+      <b>Due (7/10)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
