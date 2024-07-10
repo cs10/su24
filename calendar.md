@@ -91,8 +91,9 @@
       <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1UBSwk2pluznTyzE2tj1keDubTy3xUVD9TvAyu9PtboY/edit?usp=drive_link">Lab 5. Lists + HOFs</a> </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td>Project 2: Spelling Bee 
-      Released and <b>Due (07/01)</b></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/1okWHweDPsIdOicoRLWaUWuT3K9_q5QCXJYgMHG6tBME/edit#heading=h.casab6a7p3lb"> Project 2: Spelling Bee </a> 
+      Released<br/>
+      <b>Due (7/1)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/26 </th> <!-- Date -->
