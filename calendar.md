@@ -228,7 +228,10 @@
       (Slides)
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>Practice Midterm</td> <!-- Lab -->
+      <td>Practice Midterm</td> <br/>
+      <a href="https://us.prairielearn.com/pl/course_instance/155812/assessment/2425670">(no Snap!)</a><br/>
+      <a href="https://us.prairielearn.com/pl/course_instance/155812/assessment/2425671">(with Snap!)</a>
+      <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
