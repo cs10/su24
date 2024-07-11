@@ -211,7 +211,7 @@
     </tr>
     <tr>
       <th>Wed 7/10 </th> <!-- Date -->
-      <td>Lec 13. Social Implications<br/>
+      <td>Lec 13. Social Implications (cancelled)<br/>
       <!-- (recording) -->
       (Recording) <br/> 
       (Slides)
