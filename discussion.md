@@ -69,14 +69,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 6</td>
       <td>Midterm Review 1</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/1ryVkSYk-g1zP71mvW3_-s5cV2SMIyRdlTyPx3Lij9Ko/edit?usp=sharing">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1UyAfMDAv415x5LZ0nlaMJ5Sj1SBJNCUerQ9IMSO67NY/edit?usp=drive_link">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
       <td>Discussion 7</td>
       <td>Midterm Review 2</td>
-      <td>Worksheet</td>
+      <td><a href="https://docs.google.com/document/d/1clu-CkoLxV6RyTscL0zJ4QyklIf6NMJIcCGU9KMFBOM/edit?usp=drive_link">Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
