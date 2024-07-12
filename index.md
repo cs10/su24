@@ -17,7 +17,7 @@ UC Berkeley, Summer 2024
 **Victoria's OH:** Monday from 6-8PM, Wednesday from 6-7PM in Soda-777<br/>
 **Andrew's OH:** Tuesday, Thursday from 4-5PM in Soda-777<br/>
 **Lectures:** Monday through Thursday from 10-11AM in Physics North Building, Room 3<br/>
-**OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a>
+**OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a><br/>
 **Midterm Cheatsheet:** <a href="https://docs.google.com/document/d/1_VL-eUljVhNZc845Ciz6wOM5LipNzx8QX_w5PZvanlg/edit"> Midterm Cheatsheet</a>
 {: .fs-4 }
 
