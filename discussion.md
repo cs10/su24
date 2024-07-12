@@ -77,7 +77,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 7</td>
       <td>Midterm Review 2</td>
       <td><a href="https://docs.google.com/document/d/1clu-CkoLxV6RyTscL0zJ4QyklIf6NMJIcCGU9KMFBOM/edit?usp=drive_link">Worksheet</a></td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/1-fFSmJvIEJcfqToaHjX6hg93cDPVJ9ut_aihCYc-q2w/edit?usp=sharing">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
