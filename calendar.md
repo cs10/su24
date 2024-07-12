@@ -189,7 +189,7 @@
       <td rowspan=5>Week 4</td>
       <th>Mon 7/8</th> <!-- Date -->
       <td>Lec 11. Data Science <br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1LNNteV3q27Ons7nZyuHezW4jLQBfQ9XF/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4631329/submissions">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1QhLHezPlu05QK11soQBtWhGZKl6_hIyKLlC4VBiiSlc/edit">Lab 11: Data Science</a></td> <!-- Lab -->
@@ -200,7 +200,7 @@
     <tr>
       <th>Tue 7/9</th> <!-- Date -->
       <td>Lec 12. AI + ML + LLM <br/>
-      (Recording) <br/> 
+      <a href="https://drive.google.com/file/d/1vwpY6SWAQByV8WCtiHh6hfPy6TbcdvqQ/view?usp=drive_link">(Recording)</a> <br/> 
       <a href="https://docs.google.com/presentation/d/1y3DdH1fWbIWndGozIKQuxMuSWmRB86FlRu4piiHGOIU/edit?usp=drive_link">(Slides)</a> <br/>
       <!-- (recording) -->
       <a href="https://www.gradescope.com/courses/782967/assignments/4634319">(Lecture Quiz)</a>
