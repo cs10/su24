@@ -224,7 +224,7 @@
     <tr>
       <th>Thur 7/11</th> <!-- Date -->
       <td>Lec 14. Midterm Review<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1No9MpiA7sRHS9bL9RZLv6MXJfNTIlvXt/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1wr233vPmvRzc6KSr5BndnS00ZBGpLQe1G50q_9C9qe0/edit?usp=sharing">(Slides)</a>
       <!-- (recording) -->
       </td> <!-- Lecture -->
