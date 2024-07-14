@@ -253,7 +253,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      Lab 13: Intro
+      Lab 13: Intro To Python
       <!--  -->
       </td> <!-- Lab -->
       <td rowspan="2">Disc 8<br/>
@@ -271,7 +271,7 @@
       (Code)
       <!-- (recording) -->
       </td><!-- Lecture -->
-      <td>Lab 14. </td> <!-- Lab -->
+      <td>Lab 14. List Splicing </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td><br/>
       </td> <!-- Assignment -->
