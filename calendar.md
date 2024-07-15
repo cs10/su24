@@ -253,7 +253,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      Lab 13: Intro To Python
+      <a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 13: Intro To Python</a>
       <!--  -->
       </td> <!-- Lab -->
       <td rowspan="2">Disc 8<br/>
