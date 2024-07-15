@@ -248,7 +248,7 @@
       <th>Mon 7/15</th> <!-- Date -->
       <td>Lec 15. Intro to Python + Data Types<br/>
       (Recording)<br/>
-      (Slides)
+      <a href="https://docs.google.com/presentation/d/1L8RSd8GMMdYXbxv3WZQVJftOztyhQzpYmbkOiEJsNb0/edit?usp=drive_link">(Slides)</a><br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>
