@@ -261,7 +261,7 @@
       Slides<br/>
       Solutions -->
       </td> <!-- Discussion -->
-      <td>Project 5 Released</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/16</th> <!-- Date -->
@@ -273,14 +273,13 @@
       </td><!-- Lecture -->
       <td>Lab 14. List Splicing </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td><br/>
+      <td>Project 5 Released<br/>
       </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/17 </th> <!-- Date -->
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
-      (Dr. Nicholas Weaver)
       </td> <!-- Lecture -->
       <td>Lab 15: Data structures
       <!-- Lab -->
@@ -302,7 +301,7 @@
       <td>Lab 16. OOP</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>
-      <!-- release Final Project Propasal -->
+      <!-- release Final Project Proposal -->
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -471,6 +470,4 @@
       <td>FINAL Retake<br/>
       SATURDAY 8/10<br/>
       (1 to 7PM)</td> <!-- Assignment -->
-    </tr>
-  </tbody>
 </table>
