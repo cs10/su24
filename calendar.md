@@ -214,7 +214,7 @@
       <td>Lec 13. Social Implications (cancelled)<br/>
       <!-- (recording) -->
       (Recording) <br/> 
-      <a href="https://docs.google.com/presentation/d/1L8RSd8GMMdYXbxv3WZQVJftOztyhQzpYmbkOiEJsNb0/edit?usp=drive_link">(Slides)</a> <br/>
+      (Slides)> <br/>
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1clu-CkoLxV6RyTscL0zJ4QyklIf6NMJIcCGU9KMFBOM/edit?usp=drive_link">Disc 7: Midterm Review 2</a><br/>
