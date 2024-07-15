@@ -281,7 +281,7 @@
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 15: Data structures
+      <td>Lab 15: Data structures </td>
       <!-- Lab -->
       <td rowspan="2">Disc 9
       <!-- Worksheet<br/>
@@ -470,4 +470,6 @@
       <td>FINAL Retake<br/>
       SATURDAY 8/10<br/>
       (1 to 7PM)</td> <!-- Assignment -->
+    </tr>
+</tbody>
 </table>
