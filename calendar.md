@@ -471,5 +471,4 @@
       SATURDAY 8/10<br/>
       (1 to 7PM)</td> <!-- Assignment -->
     </tr>
-</tbody>
-</table>
+
