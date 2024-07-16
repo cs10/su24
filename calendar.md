@@ -211,10 +211,8 @@
     </tr>
     <tr>
       <th>Wed 7/10 </th> <!-- Date -->
-      <td>Lec 13. Social Implications (cancelled)<br/>
+      <td>Lec 13. Social Implications (cancelled)
       <!-- (recording) -->
-      (Recording) <br/> 
-      (Slides)
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">Disc 7: Midterm Review 2<br/>
@@ -252,9 +250,7 @@
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>
-      <!--  -->
-      Lab 13: Intro
-      <!--  -->
+      Lab 13: Intro to Python <br/>
       </td> <!-- Lab -->
       <td rowspan="2">Disc 8<br/>
       <!-- Worksheet<br/>

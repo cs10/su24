@@ -65,7 +65,7 @@ Labs will be held synchronously and are the primary place you will learn to prog
 
 Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Tutors will be available to help you with the problems.
 
-Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.There will be 24 graded labs (there's no submission or credit for lab-1), and your lowest 2 lab scores will be dropped.
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.There will be 20 graded labs (there's no submission or credit for lab-1), and your lowest 2 lab scores will be dropped.
 
 <b>Attendance to lab sections are required and part of your grade.</b> There will be no make-up options for lab attendance. You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment.
 
@@ -146,7 +146,7 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 | Project 1: Wordle™-lite                       | MON 6/24 on Gradescope   |
 | Project 2: Spelling-Bee                       | MON 7/01 on Gradescope   |
 | Project 3: 2048                               | WED 7/10 on Gradescope   |
-| Project 4: Pyturis                            | THU 7/25 on PrairieLearn |
+| Project 4: Pyturis                            | MON 7/29 on PrairieLearn |
 | Final Project Proposals                       | FRI 7/26 on Gradescope   |
 | Final Project                                 | MON 8/05 on Gradescope   |
 
@@ -160,10 +160,9 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
 | Week-1           | FRI 6/21 | 2-6PM    |  SDH-200   |
-| Week-2           | FRI 6/28 | 2-6PM    |  SDH-200  |
+| Week-2           | FRI 6/28 | 2-6PM    |  SDH-200   |
 | Week-4           | MON 7/10 | 11AM-3PM |  SDH-200   |
-| Week-6           | WED 7/24 | 11AM-3PM |  SDH-200   |
-| Week-7           | FRI 8/02 | 2-6PM    |  SDH-200  |
+| Week-7           | MON 7/29 | 11AM-3PM |  SDH-200   |
 | Week-8           | MON 8/07 | 11AM-3PM |  SDH-200   |
 
 **The SDH-200 refers to Sutardja Dai Hall 200.**
