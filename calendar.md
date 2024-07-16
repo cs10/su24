@@ -85,7 +85,7 @@
     <tr>
       <th>Tue 6/25 </th> <!-- Date -->
       <td>Lec 5. HOFs + Mutability vs Immutability + List Scoping<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1dI8ujoAkb6vMTi5LVZ1rrWxyjw6DhGHA/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1LNmaAV1wUKUSQIl62aPQRVzAXe5AVjtc0G8lHoFU7j0/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4593432">(Lecture Quiz)</a></td>
       <!-- Lecture -->
@@ -133,9 +133,9 @@
       <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
       <td>Lec 8. Linear Recursion <br/>
-      <a href="https://drive.google.com/file/d/1lPJKnS9opI8RIRzJGg5a4EQt4fy00XUX/view?usp=drive_link">(recording)</a><br/>
-      <a href="https://docs.google.com/presentation/d/1GG22dJyh85zENV-YJirBn8U7moXVKhzXjrT5PcfrfOk/edit?usp=sharing">(slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4618361">(lecture quiz)</a>
+      <a href="https://drive.google.com/file/d/1lPJKnS9opI8RIRzJGg5a4EQt4fy00XUX/view?usp=drive_link">(Recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/1GG22dJyh85zENV-YJirBn8U7moXVKhzXjrT5PcfrfOk/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4618361">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1J1HO00NO8zZqt1jcY_2Bp0dJBrc0U9fpqiD7pcSFkCM/edit#heading=h.opqtlp9ffvz4">Lab 8. Recursive Reporters</a>
       </td> <!-- Lab -->
@@ -147,7 +147,7 @@
       <td>Lec 9. Trees + Fractals<br/>
     <a href="https://drive.google.com/file/d/197_Gad7Yz2CWrp_eggGWzd0epfoBb8KY/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1gDeVXZAcqTkdfSAU3V9NiSntSMXbf-Xs1FPQCDtaCeo/edit?usp=sharing">(slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(lecture quiz)</a></td> <!-- Lecture -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4621687">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1UtbGEcQo7wyQvMvNEv87ob1NQZOFRjcHah2twnNQL-Y/edit#heading=h.opqtlp9ffvz4">Lab 9. Trees + Fractals</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td><a href="https://docs.google.com/document/d/1dU_ybYfxN2_XVDTyHpsHV55wAX6wIoeJO4Kxo-rHg_Q/edit"> Project 3: 2048 </a> 
@@ -159,7 +159,7 @@
       <td>Lec 10. Algorithms + Algorithmic Complexity <br/>
       <a href="https://drive.google.com/file/d/11LOoyS53w8Qyye5h5W5SV7ef75fr4I9l/view?usp=drive_link">(Recording)</a><br/> 
       <a href="https://docs.google.com/presentation/d/1nbO-ej4eEH4QcjQwwPAUUdtwJkUuFeir0TKWJAl6-dE/edit?usp=drive_link">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(lecture quiz)</a></td>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4623947">(Lecture Quiz)</a></td>
         <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/103lH4tS0RIKgsYHGcCr4935RTvF7YF0AlJg7Zscu9_E/edit#heading=h.opqtlp9ffvz4">Lab 10. Algorithms (Binary Search)</a></td> <!-- Lab -->
       <td rowspan="2">No Discussion<br/>
@@ -267,6 +267,7 @@
       <td>Lec 16. Lists + Mutability + List Comprehension<br/>
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1nDnAqm5ldheIgLtMxO9jiSKcUsUx0zlXBqcmW8g7VY4/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4651349">(Lecture Quiz)</a>
       <!-- (recording) -->
       </td><!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1CDyaCZ_ha4HSfowNXPwQ6CzJNd62EYknXr2omADbztY/edit#heading=h.ew4i1encppj2">Lab 14. Lists + Mutability</a></td> <!-- Lab -->
