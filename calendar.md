@@ -271,9 +271,9 @@
       (Code)
       <!-- (recording) -->
       </td><!-- Lecture -->
-      <td>Lab 14. List Splicing </td> <!-- Lab -->
+      <td>Lab 14.Splicing </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td>Project 5 Released<br/>
+      <td><br/>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -300,9 +300,7 @@
       </td> <!-- Lecture -->
       <td>Lab 16. OOP</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>
-      <!-- release Final Project Proposal -->
-      </td> <!-- Assignment -->
+      <td> Project 5 Released </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/19</th> <!-- Date -->
@@ -334,7 +332,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-       Lab 17 <br />
+       Lab 17: Recursion <br />
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
@@ -346,7 +344,7 @@
       (Recording)<br/>
       (slides)
       </td> <!-- Lecture -->
-      <td>Project Party</td> <!-- Lab -->
+      <td>Lab 18: Tree Recursion</td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
       <!-- Worksheet<br/>
       Slides<br/>
@@ -361,14 +359,14 @@
       (Slides)<br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>Lab 18</td> <!-- Lab -->
+      <td>Lab 19: Concurrency</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>Project 5 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/26</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
       <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
@@ -380,13 +378,13 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Final Project Proposal Meetings</td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">
       Disc 13 <br/>
       <!-- Worksheet<br/>
       Solutions -->
       </td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 4 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/30</th> <!-- Date -->
@@ -396,19 +394,19 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      Lab 19
+        Lab 20: NEW
       <!--  -->
       </td> <!-- Lab -->
-      <!-- <td></td>Discussion -->
-      <td></td> <!-- Assignment -->
+      <!-- <td>Discussion 9</td>Discussion -->
+      <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/31 </th> <!-- Date -->
-      <td>Lec 25. Websites Pt 2<br/>
+      <td>Lec 25. Social Implications<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 19 Continued</td> <!-- Lab -->
+      <td>Final Project Proposal Meetings</td> <!-- Lab -->
       <td rowspan="2">Disc 14<br/>
       <!-- Worksheet -->
       </td> <!-- Discussion -->
@@ -420,8 +418,8 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 20</td> <!-- Lab -->
-      <!-- <td></td> Discussion -->
+      <td>Lab 21: Robotics</td> <!-- Lab -->
+      <!-- <td>Discussion 10: NEW</td> Discussion -->
       <td>
       </td> <!-- Assignment -->
     </tr>
