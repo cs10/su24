@@ -268,7 +268,7 @@
       <th>Tue 7/16</th> <!-- Date -->
       <td>Lec 16. Splicing + Mutability + Lists + List Comprehension<br/>
       (Recording)<br/>
-      (Slides)<br/>
+      <a href="https://docs.google.com/presentation/d/1nDnAqm5ldheIgLtMxO9jiSKcUsUx0zlXBqcmW8g7VY4/edit?usp=sharing">(Slides)</a><br/>
       (Code)
       <!-- (recording) -->
       </td><!-- Lecture -->
