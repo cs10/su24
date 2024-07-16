@@ -249,6 +249,7 @@
       <td>Lec 15. Intro to Python + Data Types<br/>
       <a href="https://drive.google.com/file/d/1v_dpO-WCyU9dIssPnkFtcUcCkb8kKPoA/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1L8RSd8GMMdYXbxv3WZQVJftOztyhQzpYmbkOiEJsNb0/edit?usp=drive_link">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4648945">(Lecture Quiz)</a><br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>
