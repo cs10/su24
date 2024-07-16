@@ -365,7 +365,7 @@
     <tr>
       <th>Fri 7/26</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
-      <td>Project Party</td> <!-- Lab -->
+      <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
       <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
