@@ -272,7 +272,7 @@
       (Code)
       <!-- (recording) -->
       </td><!-- Lecture -->
-      <td>Lab 14.Splicing </td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1CDyaCZ_ha4HSfowNXPwQ6CzJNd62EYknXr2omADbztY/edit#heading=h.ew4i1encppj2">Lab 14. Lists + Mutability</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td><br/>
       </td> <!-- Assignment -->
