@@ -4,7 +4,6 @@ title: Home
 nav_exclude: false
 nav_order: 1
 ---
-# UNDER CONSTRUCTION
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
 UC Berkeley, Summer 2024
