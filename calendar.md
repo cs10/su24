@@ -189,18 +189,18 @@
       <td rowspan=5>Week 4</td>
       <th>Mon 7/8</th> <!-- Date -->
       <td>Lec 11. Data Science <br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1LNNteV3q27Ons7nZyuHezW4jLQBfQ9XF/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/138reecvvyVVsz2PaNI78nIOIZf8Q20WBTGhPhHwCQjc/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4631329/submissions">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1QhLHezPlu05QK11soQBtWhGZKl6_hIyKLlC4VBiiSlc/edit">Lab 11: Data Science</a></td> <!-- Lab -->
-      <td rowspan="2">Disc 6: Midterm Review 1</td> <!-- Discussion -->
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1ryVkSYk-g1zP71mvW3_-s5cV2SMIyRdlTyPx3Lij9Ko/edit?usp=sharing">Disc 6: Midterm Review 1</a></td> <!-- Discussion -->
       <td>
       </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/9</th> <!-- Date -->
       <td>Lec 12. AI + ML + LLM <br/>
-      (Recording) <br/> 
+      <a href="https://drive.google.com/file/d/1vwpY6SWAQByV8WCtiHh6hfPy6TbcdvqQ/view?usp=drive_link">(Recording)</a> <br/> 
       <a href="https://docs.google.com/presentation/d/1y3DdH1fWbIWndGozIKQuxMuSWmRB86FlRu4piiHGOIU/edit?usp=drive_link">(Slides)</a> <br/>
       <!-- (recording) -->
       <a href="https://www.gradescope.com/courses/782967/assignments/4634319">(Lecture Quiz)</a>
@@ -215,14 +215,14 @@
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
-      <td rowspan="2">Disc 7: Midterm Review 2<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1clu-CkoLxV6RyTscL0zJ4QyklIf6NMJIcCGU9KMFBOM/edit?usp=drive_link">Disc 7: Midterm Review 2</a><br/>
       </td> <!-- Discussion -->
       <td>Project 3: 2048 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/11</th> <!-- Date -->
       <td>Lec 14. Midterm Review<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1No9MpiA7sRHS9bL9RZLv6MXJfNTIlvXt/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1wr233vPmvRzc6KSr5BndnS00ZBGpLQe1G50q_9C9qe0/edit?usp=sharing">(Slides)</a>
       <!-- (recording) -->
       </td> <!-- Lecture -->
@@ -245,29 +245,31 @@
       <td rowspan=5>Week 5</td>
       <th>Mon 7/15</th> <!-- Date -->
       <td>Lec 15. Intro to Python + Data Types<br/>
-      (Recording)<br/>
-      (Slides)
+      <a href="https://drive.google.com/file/d/1v_dpO-WCyU9dIssPnkFtcUcCkb8kKPoA/view?usp=drive_link">(Recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/1L8RSd8GMMdYXbxv3WZQVJftOztyhQzpYmbkOiEJsNb0/edit?usp=drive_link">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4648945">(Lecture Quiz)</a><br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>
-      Lab 13: Intro to Python <br/>
+      <!--  -->
+      <a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 13: Intro To Python</a>
+      <!--  -->
       </td> <!-- Lab -->
       <td rowspan="2">Disc 8<br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
       </td> <!-- Discussion -->
-      <td>Project 5 Released</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/16</th> <!-- Date -->
-      <td>Lec 16. Splicing + Mutability + Lists + List Comprehension<br/>
+      <td>Lec 16. Lists + Mutability + List Comprehension<br/>
       (Recording)<br/>
-      (Slides)<br/>
-      (Code)
+      <a href="https://docs.google.com/presentation/d/1nDnAqm5ldheIgLtMxO9jiSKcUsUx0zlXBqcmW8g7VY4/edit?usp=sharing">(Slides)</a><br/>
       <!-- (recording) -->
       </td><!-- Lecture -->
-      <td>Lab 14. </td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1CDyaCZ_ha4HSfowNXPwQ6CzJNd62EYknXr2omADbztY/edit#heading=h.ew4i1encppj2">Lab 14. Lists + Mutability</a></td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td><br/>
       </td> <!-- Assignment -->
@@ -276,9 +278,8 @@
       <th>Wed 7/17 </th> <!-- Date -->
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
-      (Dr. Nicholas Weaver)
       </td> <!-- Lecture -->
-      <td>Lab 15: Data structures
+      <td>Lab 15: Data structures </td>
       <!-- Lab -->
       <td rowspan="2">Disc 9
       <!-- Worksheet<br/>
@@ -297,9 +298,7 @@
       </td> <!-- Lecture -->
       <td>Lab 16. OOP</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>
-      <!-- release Final Project Propasal -->
-      </td> <!-- Assignment -->
+      <td> Project 5 Released </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/19</th> <!-- Date -->
@@ -331,7 +330,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-       Lab 17 <br />
+       Lab 17: Recursion <br />
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
@@ -343,7 +342,7 @@
       (Recording)<br/>
       (slides)
       </td> <!-- Lecture -->
-      <td>Project Party</td> <!-- Lab -->
+      <td>Lab 18: Tree Recursion</td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
       <!-- Worksheet<br/>
       Slides<br/>
@@ -358,14 +357,14 @@
       (Slides)<br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>Lab 18</td> <!-- Lab -->
+      <td>Lab 19: Concurrency</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>Project 5 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/26</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
       <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
@@ -377,13 +376,13 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Final Project Proposal Meetings</td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">
       Disc 13 <br/>
       <!-- Worksheet<br/>
       Solutions -->
       </td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 4 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/30</th> <!-- Date -->
@@ -393,19 +392,19 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      Lab 19
+        Lab 20: NEW
       <!--  -->
       </td> <!-- Lab -->
-      <!-- <td></td>Discussion -->
-      <td></td> <!-- Assignment -->
+      <!-- <td>Discussion 9</td>Discussion -->
+      <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/31 </th> <!-- Date -->
-      <td>Lec 25. Websites Pt 2<br/>
+      <td>Lec 25. Social Implications<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 19 Continued</td> <!-- Lab -->
+      <td>Final Project Proposal Meetings</td> <!-- Lab -->
       <td rowspan="2">Disc 14<br/>
       <!-- Worksheet -->
       </td> <!-- Discussion -->
@@ -417,8 +416,8 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 20</td> <!-- Lab -->
-      <!-- <td></td> Discussion -->
+      <td>Lab 21: Robotics</td> <!-- Lab -->
+      <!-- <td>Discussion 10: NEW</td> Discussion -->
       <td>
       </td> <!-- Assignment -->
     </tr>
@@ -468,5 +467,4 @@
       SATURDAY 8/10<br/>
       (1 to 7PM)</td> <!-- Assignment -->
     </tr>
-  </tbody>
-</table>
+
