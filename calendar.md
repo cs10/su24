@@ -279,7 +279,8 @@
       <th>Wed 7/17 </th> <!-- Date -->
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
-      <a href="https://docs.google.com/presentation/d/1nsH14j_di5EBQTf6AR3_ReS9LuajpzlfpnrkP9dS7FI/edit?usp=sharing">(Slides)</a>
+      <a href="https://docs.google.com/presentation/d/1nsH14j_di5EBQTf6AR3_ReS9LuajpzlfpnrkP9dS7FI/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4651343">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1bCbwci2DyQUVMx6ycyLYBEQvNgt6mbo-e8Zq9-KAOrE/edit?usp=sharing">Lab 15: Data structures</a>
       </td>
