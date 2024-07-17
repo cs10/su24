@@ -281,7 +281,8 @@
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1nsH14j_di5EBQTf6AR3_ReS9LuajpzlfpnrkP9dS7FI/edit?usp=sharing">(Slides)</a>
       </td> <!-- Lecture -->
-      <td>Lab 15: Data structures </td>
+      <td><a href="https://docs.google.com/document/d/1bCbwci2DyQUVMx6ycyLYBEQvNgt6mbo-e8Zq9-KAOrE/edit?usp=sharing">Lab 15: Data structures</a>
+      </td>
       <!-- Lab -->
       <td rowspan="2">Disc 9
       <!-- Worksheet<br/>
