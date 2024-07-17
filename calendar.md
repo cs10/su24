@@ -279,6 +279,7 @@
       <th>Wed 7/17 </th> <!-- Date -->
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
+      <a href="https://docs.google.com/presentation/d/1nsH14j_di5EBQTf6AR3_ReS9LuajpzlfpnrkP9dS7FI/edit?usp=sharing">(Slides)</a>
       </td> <!-- Lecture -->
       <td>Lab 15: Data structures </td>
       <!-- Lab -->
