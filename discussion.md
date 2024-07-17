@@ -89,42 +89,42 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
      <tr>
       <td>Discussion 9</td>
-      <td>Welcome to Python!</td>
+      <td>Python Data-Structures & OOP</td>
       <td>Worksheet</td>
       <td>Solutions [& Starter Code!]</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 10</td>
-      <td>Python Data Structues</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 11</td>
-      <td>OOP in Python</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 12</td>
-      <td>Python HOFs, Lambda Expressions, Tree Recursion</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
-      <td>Social Implications | Python HOFs and Tree-Recursion Contd.</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions<br/></td>
       <td>Slides</td>
     </tr>
      <tr>
     <td>Discussion 15</td>
-      <td>Postterm Review + Conclusion!</td>
+      <td>TBD</td>
       <td>Worksheet</td>
       <td>Solutions<br/></td>
       <td>Slides</td>
