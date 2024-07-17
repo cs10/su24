@@ -83,8 +83,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Discussion 8</td>
       <td>Welcome to Python!</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/1jwbZ4Bl_GHykgMk12-gQ5y0PP2HLADyj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1BkHATNgRJ_nVIUbhwr-_HAnYYsTHiLSW/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a></td>
       <td>Slides</td>
     </tr>
      <tr>

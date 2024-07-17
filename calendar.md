@@ -255,7 +255,7 @@
       <a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 13: Intro To Python</a>
       <!--  -->
       </td> <!-- Lab -->
-      <td rowspan="2">Disc 8<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1jwbZ4Bl_GHykgMk12-gQ5y0PP2HLADyj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 8</a><br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
