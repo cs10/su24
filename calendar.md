@@ -298,7 +298,7 @@
       <th>Thur 7/18</th> <!-- Date -->
       <td>Lec 18. OOP<br/>
       (Recording)<br/>
-      (Slides)
+      <a href="https://docs.google.com/presentation/d/1EpoOeUj27WJYT9es982rgmVlORgapdUaxYl1A4dKy8U/edit?usp=drive_link">(Slides)</a>
       </td> <!-- Lecture -->
       <td>Lab 16. OOP</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
