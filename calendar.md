@@ -363,7 +363,7 @@
       </td> <!-- Lecture -->
       <td>Lab 19: Concurrency</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>Project 5 Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/26</th> <!-- Date -->
