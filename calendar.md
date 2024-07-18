@@ -302,7 +302,7 @@
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/16pN09RY_Z-yujKUS8rZdYmld6TdQFJY9eA12_0X5978/edit?usp=sharing">Lab 16. OOP</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td> Project 5 Released </td> <!-- Assignment -->
+      <td> Project 4: Pyturis Released </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/19</th> <!-- Date -->
