@@ -300,7 +300,7 @@
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1EpoOeUj27WJYT9es982rgmVlORgapdUaxYl1A4dKy8U/edit?usp=drive_link">(Slides)</a>
       </td> <!-- Lecture -->
-      <td>Lab 16. OOP</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/16pN09RY_Z-yujKUS8rZdYmld6TdQFJY9eA12_0X5978/edit?usp=sharing">Lab 16. OOP</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td> Project 5 Released </td> <!-- Assignment -->
     </tr>
