@@ -90,8 +90,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
      <tr>
       <td>Discussion 9</td>
       <td>Python Data-Structures & OOP</td>
-      <td>Worksheet</td>
-      <td>Solutions [& Starter Code!]</td>
+      <td><a href="https://docs.google.com/document/d/1JwRfb0sZ8Mmb8phaDL3LAyDpA8jCgrRi/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1c2xqDpjVgUOPTUDuyswtQs6CobscyRKB/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>

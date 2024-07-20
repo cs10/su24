@@ -285,7 +285,7 @@
       <td><a href="https://docs.google.com/document/d/1bCbwci2DyQUVMx6ycyLYBEQvNgt6mbo-e8Zq9-KAOrE/edit?usp=sharing">Lab 15: Data structures</a>
       </td>
       <!-- Lab -->
-      <td rowspan="2">Disc 9
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1JwRfb0sZ8Mmb8phaDL3LAyDpA8jCgrRi/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 9</a>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
