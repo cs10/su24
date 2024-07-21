@@ -342,7 +342,7 @@
     </tr>
     <tr>
       <th>Wed 7/24 </th> <!-- Date -->
-      <td>Lec 21. Environments <br/>
+      <td>Lec 21. Tree Recursion <br/>
       (Recording)<br/>
       (slides)
       </td> <!-- Lecture -->
@@ -356,7 +356,7 @@
     </tr>
     <tr>
       <th>Thur 7/25</th> <!-- Date -->
-      <td>Lec 22. Tree Recursion<br/>
+      <td>Lec 22. Lambdas<br/>
       (Recording)<br/>
       (Slides)<br/>
       <!-- (recording) -->
