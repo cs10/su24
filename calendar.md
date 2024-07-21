@@ -255,7 +255,7 @@
       <a href="https://docs.google.com/document/d/1VgGD0VNMfGL2RmfjxzjFIiNQoT_1eUb-t92JQyAKmVk/edit">Lab 13: Intro To Python</a>
       <!--  -->
       </td> <!-- Lab -->
-      <td rowspan="2"><a href="https://docs.google.com/document/d/1jwbZ4Bl_GHykgMk12-gQ5y0PP2HLADyj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 8</a><br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1jwbZ4Bl_GHykgMk12-gQ5y0PP2HLADyj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 8: Welcome to Python!</a><br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -285,7 +285,7 @@
       <td><a href="https://docs.google.com/document/d/1bCbwci2DyQUVMx6ycyLYBEQvNgt6mbo-e8Zq9-KAOrE/edit?usp=sharing">Lab 15: Data structures</a>
       </td>
       <!-- Lab -->
-      <td rowspan="2"><a href="https://docs.google.com/document/d/1JwRfb0sZ8Mmb8phaDL3LAyDpA8jCgrRi/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 9</a>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1JwRfb0sZ8Mmb8phaDL3LAyDpA8jCgrRi/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 9: Python Data-Structures & OOP</a>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
