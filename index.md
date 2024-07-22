@@ -13,7 +13,7 @@ UC Berkeley, Summer 2024
 {: .mb-2 .fs-5 }
 
 **Instructors:** Victoria Phelps & Andrew Rothman<br/>
-**Victoria's OH:** Monday from 6-8PM, Wednesday from 6-7PM in Soda-777<br/>
+**Victoria's OH:** Monday from 6-8PM, Wednesday from 6-7PM<br/>
 **Andrew's OH:** Tuesday, Thursday from 4-5PM in Soda-777<br/>
 **Lectures:** Monday through Thursday from 10-11AM in Physics North Building, Room 3<br/>
 **OH Queue:** <a href="https://oh.cs10.org/"> oh.cs10.org</a><br/>
