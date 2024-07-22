@@ -265,7 +265,7 @@
     <tr>
       <th>Tue 7/16</th> <!-- Date -->
       <td>Lec 16. Lists + Mutability + List Comprehension<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1SNQowurPqjLTl7t9x4AY0evMH6mWRmcY/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1nDnAqm5ldheIgLtMxO9jiSKcUsUx0zlXBqcmW8g7VY4/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4651349">(Lecture Quiz)</a>
       <!-- (recording) -->
@@ -278,7 +278,7 @@
     <tr>
       <th>Wed 7/17 </th> <!-- Date -->
       <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/10YzLp9ub0yYXxaakdQ3tD4kSCj49uT8_/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1nsH14j_di5EBQTf6AR3_ReS9LuajpzlfpnrkP9dS7FI/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4651343">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
@@ -297,7 +297,7 @@
     <tr>
       <th>Thur 7/18</th> <!-- Date -->
       <td>Lec 18. OOP<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1vXyMLJbA7XHK0Pc9O3_g9zr4JG2csTsN/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1EpoOeUj27WJYT9es982rgmVlORgapdUaxYl1A4dKy8U/edit?usp=drive_link">(Slides)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/16pN09RY_Z-yujKUS8rZdYmld6TdQFJY9eA12_0X5978/edit?usp=sharing">Lab 16. OOP</a></td> <!-- Lab -->
@@ -316,7 +316,7 @@
       <td rowspan=5>Week 6</td>
       <th>Mon 7/22</th> <!-- Date -->
       <td>Lec 19. OOP Continued<br/>
-      (Recording)<br/>
+      (<a href="https://drive.google.com/file/d/1V0UCGkEdskitYKDnlflCr4KuO37n-2Sc/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1syhiXQtCi2xndRlRSyc8WbFbLrs-TmqbtxgZGnAFpK8/edit?usp=drive_link">(Slides)</a><br/>
       (Code)
       </td> <!-- Lecture -->
