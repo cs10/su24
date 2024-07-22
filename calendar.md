@@ -320,7 +320,7 @@
       <a href="https://docs.google.com/presentation/d/1syhiXQtCi2xndRlRSyc8WbFbLrs-TmqbtxgZGnAFpK8/edit?usp=drive_link">(Slides)</a><br/>
       (Code)
       </td> <!-- Lecture -->
-      <td> Lab 16 Continued...</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing">Lab 16, Part 2</a></td> <!-- Lab -->
       <td rowspan="2">Disc 10:<br/>
       </td> <!-- Discussion -->
       <td><br/>
