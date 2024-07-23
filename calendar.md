@@ -335,7 +335,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-       Lab 17: Recursion <br />
+       <a href="https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit#heading=h.ew4i1encppj2">Lab 17: Recursion</a> <br />
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
