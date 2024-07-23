@@ -330,7 +330,8 @@
       <th>Tue 7/23</th> <!-- Date -->
       <td>Lec 20. Recursion in Python<br/>
       (Recording)<br/>
-      (Slides)
+      <a href="https://docs.google.com/presentation/d/16jNKPfSudDPXvIB6lyJM-EuguHuEPXaYriisVGxVs9Q/edit?usp=sharing">(Slides)</a>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4663294">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>
       <!--  -->
