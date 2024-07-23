@@ -318,7 +318,7 @@
       <td>Lec 19. OOP Continued<br/>
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1syhiXQtCi2xndRlRSyc8WbFbLrs-TmqbtxgZGnAFpK8/edit?usp=drive_link">(Slides)</a><br/>
-      (Code)
+      <a href="https://www.gradescope.com/courses/782967/assignments/4660909">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing">Lab 16, Part 2</a></td> <!-- Lab -->
       <td rowspan="2">Disc 10:<br/>
@@ -329,8 +329,9 @@
     <tr>
       <th>Tue 7/23</th> <!-- Date -->
       <td>Lec 20. Recursion in Python<br/>
-      (Recording)<br/>
-      (Slides)
+      <a href="">(Recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/16jNKPfSudDPXvIB6lyJM-EuguHuEPXaYriisVGxVs9Q/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4663294">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>
       <!--  -->
