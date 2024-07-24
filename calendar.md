@@ -348,7 +348,7 @@
       <a href="https://docs.google.com/presentation/d/1Gdp2PTxbO5Hu3qV1YM5yFLwc013R3hu1AJGMM3bgCfQ/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4666580">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
-      <td>Lab 18: Tree Recursion</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit#heading=h.46v9clx489ho">Lab 18: Tree Recursion</a></td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
       <!-- Worksheet<br/>
       Slides<br/>
