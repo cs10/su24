@@ -372,7 +372,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>Final Project Proposals Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
     <tr>
