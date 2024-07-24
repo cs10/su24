@@ -321,7 +321,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4660909">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing">Lab 16, Part 2</a></td> <!-- Lab -->
-      <td rowspan="2">Disc 10:<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1ul0g6_ExvZVpn9SI3vJYyOx2vjM773Pl/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 10: Object-Oriented Programming and Recursion in Python</a><br/>
       </td> <!-- Discussion -->
       <td><br/>
       </td> <!-- Assignment -->
@@ -335,7 +335,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-       Lab 17: Recursion <br />
+       <a href="https://docs.google.com/document/d/1rA-ptInPcepk7KCoHyNkr-dcyky6zzNS5O4C7UcDoE0/edit#heading=h.ew4i1encppj2">Lab 17: Recursion</a> <br />
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
@@ -345,7 +345,8 @@
       <th>Wed 7/24 </th> <!-- Date -->
       <td>Lec 21. Tree Recursion <br/>
       (Recording)<br/>
-      (slides)
+      <a href="https://docs.google.com/presentation/d/1Gdp2PTxbO5Hu3qV1YM5yFLwc013R3hu1AJGMM3bgCfQ/edit?usp=sharing">(Slides)</a><br/>
+      <a href="">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>Lab 18: Tree Recursion</td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
