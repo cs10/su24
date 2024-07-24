@@ -344,9 +344,9 @@
     <tr>
       <th>Wed 7/24 </th> <!-- Date -->
       <td>Lec 21. Tree Recursion <br/>
-      (Recording)<br/>
+      <a href="https://docs.google.com/presentation/d/1Gdp2PTxbO5Hu3qV1YM5yFLwc013R3hu1AJGMM3bgCfQ/edit?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1Gdp2PTxbO5Hu3qV1YM5yFLwc013R3hu1AJGMM3bgCfQ/edit?usp=sharing">(Slides)</a><br/>
-      <a href="">(Lecture Quiz)</a>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4666580">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>Lab 18: Tree Recursion</td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
