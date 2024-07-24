@@ -316,9 +316,9 @@
       <td rowspan=5>Week 6</td>
       <th>Mon 7/22</th> <!-- Date -->
       <td>Lec 19. OOP Continued<br/>
-      (<a href="https://drive.google.com/file/d/1V0UCGkEdskitYKDnlflCr4KuO37n-2Sc/view?usp=sharing">(Recording)</a><br/>
+      <a href="https://drive.google.com/file/d/1V0UCGkEdskitYKDnlflCr4KuO37n-2Sc/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1syhiXQtCi2xndRlRSyc8WbFbLrs-TmqbtxgZGnAFpK8/edit?usp=drive_link">(Slides)</a><br/>
-      (Code)
+      <a href="https://www.gradescope.com/courses/782967/assignments/4660909">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing">Lab 16, Part 2</a></td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1ul0g6_ExvZVpn9SI3vJYyOx2vjM773Pl/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 10: Object-Oriented Programming and Recursion in Python</a><br/>
@@ -345,7 +345,8 @@
       <th>Wed 7/24 </th> <!-- Date -->
       <td>Lec 21. Tree Recursion <br/>
       (Recording)<br/>
-      (slides)
+      <a href="https://docs.google.com/presentation/d/1Gdp2PTxbO5Hu3qV1YM5yFLwc013R3hu1AJGMM3bgCfQ/edit?usp=sharing">(Slides)</a><br/>
+      <a href="">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>Lab 18: Tree Recursion</td> <!-- Lab -->
       <td rowspan="2">Disc 12<br/>
