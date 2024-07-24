@@ -321,7 +321,7 @@
       (Code)
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1pAnykqCmLdvEe4vuv2YGZ6ArnLV-UeliCZE9hbXQmlo/edit?usp=sharing">Lab 16, Part 2</a></td> <!-- Lab -->
-      <td rowspan="2">Disc 10:<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1ul0g6_ExvZVpn9SI3vJYyOx2vjM773Pl/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 10: Object-Oriented Programming and Recursion in Python</a><br/>
       </td> <!-- Discussion -->
       <td><br/>
       </td> <!-- Assignment -->

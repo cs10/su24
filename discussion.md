@@ -97,7 +97,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Discussion 10</td>
       <td>TBD</td>
-      <td>Worksheet</td>
+      <td><a href="https://docs.google.com/document/d/1ul0g6_ExvZVpn9SI3vJYyOx2vjM773Pl/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
