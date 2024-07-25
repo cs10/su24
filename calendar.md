@@ -364,7 +364,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4668258">(Lecture Quiz)</a>
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>Lab 19: Concurrency</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Lab 19: Concurrency</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
