@@ -361,7 +361,7 @@
       <td>Lec 22. Concurrency + Parallelism<br/>
       <a href="">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1T2vLIbkFFY8R9ZGYqBOtqez5715xb_BgjCMq-2-VcqI/edit?usp=sharing">(Slides)</a><br/>
-      <a href="">(Lecture Quiz)</a>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4668258">(Lecture Quiz)</a>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>Lab 19: Concurrency</td> <!-- Lab -->
