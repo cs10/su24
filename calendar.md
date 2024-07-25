@@ -358,9 +358,10 @@
     </tr>
     <tr>
       <th>Thur 7/25</th> <!-- Date -->
-      <td>Lec 22. Lambdas<br/>
-      (Recording)<br/>
-      (Slides)<br/>
+      <td>Lec 22. Concurrency + Parallelism<br/>
+      <a href="">(Recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/1T2vLIbkFFY8R9ZGYqBOtqez5715xb_BgjCMq-2-VcqI/edit?usp=sharing">(Slides)</a><br/>
+      <a href="">(Lecture Quiz)</a>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>Lab 19: Concurrency</td> <!-- Lab -->
@@ -378,7 +379,8 @@
     <tr>
       <td rowspan=5>Week 7</td>
       <th>Mon 7/29</th> <!-- Date -->
-      <td>Lec 23. Dan's Lecture<br/>
+      <td>Lec 23. Social Implications<br/>
+      with Dr. Dan Garcia<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -418,11 +420,11 @@
     </tr>
     <tr>
       <th>Thur 8/01</th> <!-- Date -->
-      <td>Lec 26. Robotics + Hardware<br/>
+      <td>Lec 26. Review for Final<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 21: Robotics</td> <!-- Lab -->
+      <td>Practice Final</td> <!-- Lab -->
       <!-- <td>Discussion 10: NEW</td> Discussion -->
       <td>
       </td> <!-- Assignment -->
@@ -438,22 +440,22 @@
     <tr>
       <td rowspan=5>Week 8</td>
       <th>Mon 8/05</th> <!-- Date -->
-      <td>Lec 27. Social Implications</td> <!-- Lecture -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <td>NO LEC</td> <!-- Lecture -->
+      <td>NO LAB</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Final Project Due</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 8/06</th> <!-- Date -->
-      <td>Lec 28. Final Review</td> <!-- Lecture -->
-      <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td>Disc 15: Final Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
+      <th>Tue 8/06</th> <!-- Date -->
+      <td>NO LEC</td> <!-- Lecture -->
+      <td>NO LAB</td> <!-- Lab -->
+      <td>NO DISC</td> <!-- Discussion -->
+      <td>Final Project Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
       <th>Wed 8/7</th> <!-- Date -->
-      <td>Final Review + Farwell</td> <!-- Lecture -->
-      <td>Final Review</td> <!-- Lab -->
+      <td>NO LEC</td> <!-- Lecture -->
+      <td>NO LAB</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
