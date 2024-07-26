@@ -104,8 +104,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
     <td>Discussion 11</td>
       <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/175AdX5iGyRdUzWFZGb31XPoisCioSBHw/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1YsKYWiaUXeYB5jY8apwFMjg1v1FSjp1y/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>

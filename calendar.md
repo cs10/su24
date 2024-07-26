@@ -349,7 +349,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4666580">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/10YfNHu6EJM7kECRxplUwsUYaekz4YM9mSqHG4sU7wk0/edit#heading=h.46v9clx489ho">Lab 18: Tree Recursion</a></td> <!-- Lab -->
-      <td rowspan="2">Disc 12<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/175AdX5iGyRdUzWFZGb31XPoisCioSBHw/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Discussion 11: Tree Recursion in Python</a><br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
