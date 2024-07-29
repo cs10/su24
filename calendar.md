@@ -382,7 +382,7 @@
       <td>Lec 23. Social Implications<br/>
       with Dr. Dan Garcia<br/>
       (Recording)<br/>
-      (Slides)<br/>
+      <a href="https://drive.google.com/file/d/1ynGWE3n5-Ia904YXny121a0x-uvS5MQh/view?usp=drivesdk">(Slides)</a><br/>
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">
