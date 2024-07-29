@@ -394,7 +394,7 @@
     </tr>
     <tr>
       <th>Tue 7/30</th> <!-- Date -->
-      <td>Lec 24. Websites<br/>
+      <td>Lec 24. Social Implications<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -408,7 +408,7 @@
     </tr>
     <tr>
       <th>Wed 7/31 </th> <!-- Date -->
-      <td>Lec 25. Social Implications<br/>
+      <td>Lec 25. Websites<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
