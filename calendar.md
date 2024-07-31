@@ -410,7 +410,7 @@
       <th>Wed 7/31 </th> <!-- Date -->
       <td>Lec 25. Websites<br/>
       (Recording)<br/>
-      (Slides)<br/>
+      <a href="https://docs.google.com/presentation/d/19oGJyZf3sd2jhDJKrLQRfds9o9Oy7Jb8o17g-AweR_g/edit#slide=id.g2ef87a36c21_0_16">(Slides) </a><br/>
       </td> <!-- Lecture -->
       <td>Final Project Proposal Meetings</td> <!-- Lab -->
       <td rowspan="2">Disc 14<br/>
