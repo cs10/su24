@@ -400,7 +400,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-        Lab 20: NEW
+       <a href="https://docs.google.com/document/d/1xsWkA9Zhho7rsHQyZ-bLISAyJSwgtdQnWhmaD5aUhDo/edit#heading=h.46v9clx489ho"> Lab 20: Websites </a>
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td>Discussion 9</td>Discussion -->
