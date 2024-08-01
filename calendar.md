@@ -421,8 +421,9 @@
     <tr>
       <th>Thur 8/01</th> <!-- Date -->
       <td>Lec 26. Review for Final<br/>
-      (Recording)<br/>
-      (Slides)<br/>
+      <a href="">(Recording)</a><br/>
+      <a href="https://docs.google.com/presentation/d/1LSq4B2qMBaLZC-AKQYn7ltfUHsSwVInBiSZ_uc-4a40/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4683386/outline/edit">(Lecture Quiz)</a>
       </td> <!-- Lecture -->
       <td>Practice Final</td> <!-- Lab -->
       <!-- <td>Discussion 10: NEW</td> Discussion -->
