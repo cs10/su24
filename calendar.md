@@ -465,7 +465,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>FINAL (1 to 7PM)</td> <!-- Assignment -->
+      <td>FINAL (1 to 6PM)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/9</th> <!-- Date -->
