@@ -386,7 +386,7 @@
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">
-      Disc 13 <br/>
+      <a href="https://docs.google.com/document/d/1YhSst8vi8P-aCT8ql1N8rN5OSmAXSVjS/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 12: Final Review I</a> <br/>
       <!-- Worksheet<br/>
       Solutions -->
       </td> <!-- Discussion -->
@@ -413,7 +413,7 @@
       <a href="https://docs.google.com/presentation/d/19oGJyZf3sd2jhDJKrLQRfds9o9Oy7Jb8o17g-AweR_g/edit#slide=id.g2ef87a36c21_0_16">(Slides) </a><br/>
       </td> <!-- Lecture -->
       <td>Final Project Proposal Meetings</td> <!-- Lab -->
-      <td rowspan="2">Disc 14<br/>
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1qJyMtbpX69Ca6OYrfijeJ6wDIr2mhKjj/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Disc 13: Final Review II</a><br/>
       <!-- Worksheet -->
       </td> <!-- Discussion -->
       <td></td><!-- Assignment -->
@@ -474,6 +474,6 @@
       <td></td> <!-- Discussion -->
       <td>FINAL Retake<br/>
       SATURDAY 8/10<br/>
-      (1 to 7PM)</td> <!-- Assignment -->
+      (1 to 6PM)</td> <!-- Assignment -->
     </tr>
 

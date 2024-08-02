@@ -103,32 +103,26 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
     <td>Discussion 11</td>
-      <td>TBD</td>
+      <td>Discussion 11: Tree Recursion in Python</td>
       <td><a href="https://docs.google.com/document/d/175AdX5iGyRdUzWFZGb31XPoisCioSBHw/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1YsKYWiaUXeYB5jY8apwFMjg1v1FSjp1y/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a></td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 12</td>
-      <td>TBD</td>
-      <td>Worksheet</td>
+      <td>Final Review I</td>
+      <td><a href="https://docs.google.com/document/d/1YhSst8vi8P-aCT8ql1N8rN5OSmAXSVjS/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
       <td>Solutions</td>
       <td>Slides</td>
     </tr>
     <tr>
     <td>Discussion 13</td>
-      <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions<br/></td>
+      <td>Final Review II</td>
+      <td><a href="https://docs.google.com/document/d/1qJyMtbpX69Ca6OYrfijeJ6wDIr2mhKjj/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1e-5gG4YNemPciwf3G5gtU2D7CoTRP-o9/edit?usp=drive_link&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a><br/></td>
       <td>Slides</td>
     </tr>
      <tr>
-    <td>Discussion 15</td>
-      <td>TBD</td>
-      <td>Worksheet</td>
-      <td>Solutions<br/></td>
-      <td>Slides</td>
-    </tr>
   </tbody>
 </table>
 
