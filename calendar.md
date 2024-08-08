@@ -465,7 +465,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>FINAL (1 to 6PM)</td> <!-- Assignment -->
+      <td>FINAL (2 to 6PM)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/9</th> <!-- Date -->
@@ -474,6 +474,6 @@
       <td></td> <!-- Discussion -->
       <td>FINAL Retake<br/>
       SATURDAY 8/10<br/>
-      (1 to 6PM)</td> <!-- Assignment -->
+      (2 to 6PM)</td> <!-- Assignment -->
     </tr>
 
