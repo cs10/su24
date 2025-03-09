@@ -359,7 +359,7 @@
     <tr>
       <th>Thur 7/25</th> <!-- Date -->
       <td>Lec 22. Concurrency + Parallelism<br/>
-      <a href="">(Recording)</a><br/>
+      <a href="https://drive.google.com/file/d/14yfEYhAOknFS7k-mfERSrUpCSp1xhrAz/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1T2vLIbkFFY8R9ZGYqBOtqez5715xb_BgjCMq-2-VcqI/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4668258">(Lecture Quiz)</a>
       <!-- (recording) -->
@@ -381,7 +381,7 @@
       <th>Mon 7/29</th> <!-- Date -->
       <td>Lec 23. Social Implications<br/>
       with Dr. Dan Garcia<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1wgSaym4U4eGQGHyru95fjkUcYTm-g7ml/view?usp=sharing">(Recording)</a><br/>
       <a href="https://drive.google.com/file/d/1ynGWE3n5-Ia904YXny121a0x-uvS5MQh/view?usp=drivesdk">(Slides)</a><br/>
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
@@ -395,7 +395,7 @@
     <tr>
       <th>Tue 7/30</th> <!-- Date -->
       <td>Lec 24. Social Implications, delivered by Stacey Yoo<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1phPPSoL0-JwmDlK0FrMfKiceEcLPJVgf/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1SSuPVPhbN8VihOCSqoIJKjpumqgFUOQmauSzG4lmNCE/edit?usp=drive_link">(Slides)</a><br/>
       </td> <!-- Lecture -->
       <td>
@@ -409,7 +409,7 @@
     <tr>
       <th>Wed 7/31 </th> <!-- Date -->
       <td>Lec 25. Websites<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1EGyGogQoVaq8sbEbGo-KtJpJmxokz77E/view?usp=sharing">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/19oGJyZf3sd2jhDJKrLQRfds9o9Oy7Jb8o17g-AweR_g/edit#slide=id.g2ef87a36c21_0_16">(Slides) </a><br/>
       </td> <!-- Lecture -->
       <td>Final Project Proposal Meetings</td> <!-- Lab -->
